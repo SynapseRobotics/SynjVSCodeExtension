@@ -1,0 +1,25 @@
+{
+  "name": "synj-support",
+  "displayName": "SYNJ Support",
+  "description": "Syntax highlighting and auto-completion for the SYNJ declarative language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "synj",
+      "aliases": ["SYNJ", "synj"],
+      "extensions": [".synj"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "synj",
+      "scopeName": "source.synj",
+      "path": "./syntaxes/synj.tmLanguage.json"
+    }]
+  }
+}
