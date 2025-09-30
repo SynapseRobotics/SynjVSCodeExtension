@@ -64,7 +64,7 @@
 			"patterns": [
 				{
 					"name": "keyword.operator.assignment.synj",
-					"match": "-"
+					"match": "="
 				},
 				{
 					"name": "punctuation.terminator.statement.synj",
