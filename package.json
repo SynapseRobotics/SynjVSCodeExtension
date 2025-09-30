@@ -2,7 +2,7 @@
   "name": "synj-support",
   "displayName": "SYNJ Support",
   "description": "Syntax highlighting and auto-completion for the SYNJ declarative language",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "./out/extension.js",
   "engines": {
     "vscode": "^1.104.0"
