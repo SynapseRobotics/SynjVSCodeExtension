@@ -1,6 +1,6 @@
-# synj-support README
+# SYNJ Support Extension
 
-This is the README for your extension "synj-support". After writing up a brief description, we recommend including the following sections.
+The official extension for the SYNJ DSL
 
 ## Features
 
